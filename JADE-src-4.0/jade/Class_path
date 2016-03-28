@@ -1,0 +1,13 @@
+#!/bin/bash
+# My first script
+
+
+
+
+
+
+CLASSPATH=$CLASSPATH:/jaafar/Jade/JADE-bin-4.0/jade/lib/jade.jar
+
+export CLASSPATH
+
+ echo 'Classpath exporter !'
